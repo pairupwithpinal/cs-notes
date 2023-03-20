@@ -1,2 +1,2 @@
 # cs-notes
-My computer science notes 2026
+My computer science notes @ 2026
